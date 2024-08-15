@@ -1,16 +1,7 @@
-# kickstart.nvim
-
 ## Introduction
+Based on kickstart.nvim, this repo works as a custom portable set up for NeoVim, adapted to my very own development needs such as low-level programming and web development.
 
-A starting point for Neovim that is:
-
-* Small
-* Single-file
-* Completely Documented
-
-**NOT** a Neovim distribution, but instead a starting point for your configuration.
-
-## Installation
+--- Follow the instructions below to configure NeoVim and its dependencies.
 
 ### Install Neovim
 
